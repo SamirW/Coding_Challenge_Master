@@ -1,0 +1,35 @@
+environment:
+  obstacles:
+    obstacle00:
+      points:
+      - [10, 10]
+      - [10, 20]
+      - [20, 20]
+      - [20, 10]
+    obstacle01:
+      points:
+      - [65, 76]
+      - [60, 50]
+      - [75, 60]
+    obstacle02:
+      points:
+      - [5, 80]
+      - [18, 92]
+      - [21, 83]
+      - [12, 78]
+    obstacle03:
+      points:
+      - [40, 60]
+      - [20, 60]
+    obstacle04:
+      points:
+      - [75, 40]
+      - [80, 45]
+      - [80, 35]
+    obstacle05:
+      points:
+      - [25, 10]
+      - [40, 5]
+      - [60, 8]
+      - [70, 12]
+      - [50, 15]
